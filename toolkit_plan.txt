@@ -1,0 +1,74 @@
+PERSONAL MINI-TOOLKIT PROJECT PLAN
+
+PROJECT TITLE: Personal Mini-Toolkit
+
+1. SELECTED TOOLS AND DESCRIPTIONS
+
+Tool 1: Simple Calculator
+This tool allows users to perform addition, subtraction, multiplication and division using two numbers.
+
+Tool 2: To-Do List Manager
+This tool allows users to add new tasks, view their tasks and remove completed tasks.
+
+Tool 3: Number Guessing Game
+This tool challenges users to guess a secret number and provides hints until they find the correct answer.
+
+Tool 4: Name Formatter
+This tool allows users to enter their names and displays them in uppercase, lowercase and title case.
+
+2. EXACT MENU TEXT
+
+========================================
+          PERSONAL MINI-TOOLKIT
+========================================
+
+Welcome! Choose a tool to get started.
+
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Name Formatter
+5. Quit
+
+Enter your choice (1-5):
+
+3. PYTHON CONCEPTS USED
+
+Tool 1: Simple Calculator
+- Variables
+- User input and output
+- Arithmetic operators
+- If, elif and else conditionals
+- F-strings
+
+Tool 2: To-Do List Manager
+- Lists
+- While loops
+- If, elif and else conditionals
+- Append and remove methods
+- F-strings
+
+Tool 3: Number Guessing Game
+- Variables
+- While loops
+- If, elif and else conditionals
+- Comparison operators
+- F-strings
+
+Tool 4: Name Formatter
+- Variables
+- String methods
+- User input and output
+- F-strings
+
+Main Menu:
+- While loop
+- If, elif and else conditionals
+- User input and output
+- F-strings
+
+4. PROJECT GOAL
+
+The goal of this project is to develop a simple,
+ interactive and user-friendly Python toolkit that provides useful tools through a menu-driven program.
+  The program will continue running until the user chooses to quit.
